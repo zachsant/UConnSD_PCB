@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [NUWC_BALLAS_SENSOR_POWER_INTERFACE.PrjPcb]
+   Generated File[BallastControlBoard_4902-003.TXT]
+   Generated File[BallastControlBoard_4902-003.LDP]
+   Generated File[BallastControlBoard_4902-003.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 6:06:46 AM On 2/28/2026
